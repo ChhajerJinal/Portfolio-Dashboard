@@ -1,0 +1,7 @@
+Shareholders Agreement
+
+This is a sample shareholders agreement used for demo purposes. It contains clauses about board nomination, information rights, and liquidation preferences.
+
+Clause: Board nomination - Investor A has the right to nominate one director.
+
+Clause: Liquidation preference - 1x non-participating.

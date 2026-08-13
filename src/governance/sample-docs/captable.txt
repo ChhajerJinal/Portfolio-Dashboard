@@ -1,0 +1,7 @@
+### Cap Table 2026
+Close
+Cap table export CSV content
+
+Founders,60%
+Investors,30%
+ESOP,10%
